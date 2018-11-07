@@ -1,0 +1,7 @@
+C:\Users\shawn\source\repos\GunFun\GunFun\bin\Debug\GunFun.exe.config
+C:\Users\shawn\source\repos\GunFun\GunFun\bin\Debug\GunFun.exe
+C:\Users\shawn\source\repos\GunFun\GunFun\bin\Debug\GunFun.pdb
+C:\Users\shawn\source\repos\GunFun\GunFun\obj\Debug\GunFun.csprojAssemblyReference.cache
+C:\Users\shawn\source\repos\GunFun\GunFun\obj\Debug\GunFun.csproj.CoreCompileInputs.cache
+C:\Users\shawn\source\repos\GunFun\GunFun\obj\Debug\GunFun.exe
+C:\Users\shawn\source\repos\GunFun\GunFun\obj\Debug\GunFun.pdb
